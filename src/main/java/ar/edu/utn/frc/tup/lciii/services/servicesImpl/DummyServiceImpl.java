@@ -1,8 +1,8 @@
-package ar.edu.utn.frc.tup.lciii.sacaffolding.services.servicesImpl;
+package ar.edu.utn.frc.tup.lciii.services.servicesImpl;
 
-import ar.edu.utn.frc.tup.lciii.sacaffolding.models.Dummy;
-import ar.edu.utn.frc.tup.lciii.sacaffolding.repositories.DummyRepository;
-import ar.edu.utn.frc.tup.lciii.sacaffolding.services.DummyService;
+import ar.edu.utn.frc.tup.lciii.models.Dummy;
+import ar.edu.utn.frc.tup.lciii.repositories.DummyRepository;
+import ar.edu.utn.frc.tup.lciii.services.DummyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

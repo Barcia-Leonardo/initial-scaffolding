@@ -1,4 +1,4 @@
-package ar.edu.utn.frc.tup.lciii.sacaffolding.entities;
+package ar.edu.utn.frc.tup.lciii.entities;
 
 import jakarta.persistence.*;
 

@@ -1,6 +1,6 @@
-package ar.edu.utn.frc.tup.lciii.sacaffolding.services;
+package ar.edu.utn.frc.tup.lciii.services;
 
-import ar.edu.utn.frc.tup.lciii.sacaffolding.models.Dummy;
+import ar.edu.utn.frc.tup.lciii.models.Dummy;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

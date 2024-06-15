@@ -1,4 +1,4 @@
-package ar.edu.utn.frc.tup.lciii.sacaffolding.confings;
+package ar.edu.utn.frc.tup.lciii.confings;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
